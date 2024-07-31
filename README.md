@@ -1,5 +1,7 @@
 # ControlLoRA: A Lightweight Neural Network To Control Stable Diffusion Spatial Information
 
+🎉 2024.7.31： ControlLoRA Version 3 is available in [control-lora-3](https://github.com/HighCWu/control-lora-v3).
+
 🎉 ControlLoRA Version 2 is available in [control-lora-2](https://github.com/HighCWu/control-lora-v2).
 
 EN | [中文](./README_CN.md)
